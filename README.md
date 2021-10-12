@@ -29,7 +29,3 @@ You can adjust some of the hyperparameters in the following ways:
 python Raidb.py --filename "zachary.txt" --k 3 --overlap True --T 20 --freq 8
 ```
 In this way, you can modify the filename(network), the value of k and other parameters.The filepath need to be modified in the file.
-
-## Questions?
-
-Please report any bugs and I will get to them ASAP. For any additional questions, feel free to email penggangsun@xidian.edu.cn & xunlianwu@stu.xidian.edu.cn.
