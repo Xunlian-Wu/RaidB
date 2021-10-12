@@ -29,7 +29,6 @@ if __name__ == "__main__":
         line = [line[0], line[1].replace('\n', '')]
         G.add_edge(line[0], line[1])
     file_read.close()
-
     G.remove_edges_from(nx.selfloop_edges(G))
 
     Initial_Part = Initial_Blocks(G, args.k)
