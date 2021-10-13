@@ -2,7 +2,6 @@
 
 - networkx
 - Python 3
-- numpy
 
 ## Example Experiments
 
