@@ -5,7 +5,7 @@
 
 ## Example Experiments
 
-This repository contains a subset of the experiments mentioned in the paper.
+This repository contains a subset of the experiments mentioned in the paper:Rearranging 'indivisible' blocks for community detection.
 
 ## Hyperparameters
 
